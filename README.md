@@ -64,5 +64,3 @@ This project implements a complete DevOps pipeline using Jenkins, Docker, and mo
 4. 📬 **Notifications**  
    - Sends email notification using `emailext` on success or failure  
    - Email includes build status, job name, and a link to the Jenkins console output
-   
-   ```
