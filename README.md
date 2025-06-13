@@ -50,8 +50,6 @@ This project implements a complete DevOps pipeline using Jenkins, Docker, and mo
 
 ## 🚀 Pipeline Stages
 
-```
-```
 1. ✅ **Start Required Services**  
    Starts MongoDB, Kafka, Eureka, and Gateway using `docker-compose.dep.yml` and `docker-compose.services.yml`.
 
