@@ -1,6 +1,5 @@
 # 🛡️ SafeZone — Code Quality and Security Pipeline for E-commerce Microservices
 
-**Author:** Mouhamadou Diouf  
 **Project Type:** DevSecOps Enhancement  
 **Tools:** SonarQube, Docker, GitHub Actions, Jenkins, Git...
 
