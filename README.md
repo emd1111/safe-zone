@@ -2,7 +2,7 @@
 
 **Author:** Mouhamadou Diouf  
 **Project Type:** DevSecOps Enhancement  
-**Tools:** SonarQube, Docker, GitHub Actions, Jenkins, Git
+**Tools:** SonarQube, Docker, GitHub Actions, Jenkins, Git...
 
 ---
 
